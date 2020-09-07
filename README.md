@@ -1,11 +1,21 @@
-# Tweet Scraping
-Scraping tweets based on keywords and outputting them to a Google spreadsheet in the form of a csv. Morphologize the text and record the number of the word.
+# Tweet Scraping  
+Scraping tweets based on keywords and outputting them to a Google spreadsheet in the form of a csv. Morphologize the text and record the number of the word.Use Word2Vec to convert words to 3D coordinates.
 
 
-### Requirement
-- Register with the Twitter API(https://developer.twitter.com/en/portal/projects-and-apps)
+## Requirement  
+### tweet_scraping.ipynb
+- Register with the [Twitter API](https://developer.twitter.com/en/portal/projects-and-apps)
 - Google colab
 
-### Output to Google Drive
+### text_morphological_analysis.ipynb
+- Google colab
+
+### word2vec.ipynb
+- [wordvectors - Japanese(w)](https://github.com/Kyubyong/wordvectors)
+- Google colab
+
+
+## Output to Google Drive  
 - tweet_sheet
 - word_num_sheet
+- word2vec_sheet
