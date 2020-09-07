@@ -16,6 +16,10 @@ Scraping tweets based on keywords and outputting them to a Google spreadsheet in
 
 
 ## Output to Google Drive  
-- csv/tweet_sheet.csv
-- csv/word_num_sheet.csv
-- csv/word2vec_sheet.csv
+- csv / tweet_sheet.csv
+- csv / word_num_sheet.csv
+- csv / word2vec_sheet.csv
+  - num: max 12223 min 1
+  - x: max 21.50 min -14.19
+  - y: max 16.90 min -11.58
+  - z: max 18.52 min -13.79
