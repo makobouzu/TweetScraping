@@ -16,6 +16,6 @@ Scraping tweets based on keywords and outputting them to a Google spreadsheet in
 
 
 ## Output to Google Drive  
-- tweet_sheet
-- word_num_sheet
-- word2vec_sheet
+- csv/tweet_sheet.csv
+- csv/word_num_sheet.csv
+- csv/word2vec_sheet.csv
